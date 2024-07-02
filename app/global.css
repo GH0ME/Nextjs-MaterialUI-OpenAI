@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,body,main {
+  height: 100%;
+  transition: all 0.2s ease-in-out;
+}
